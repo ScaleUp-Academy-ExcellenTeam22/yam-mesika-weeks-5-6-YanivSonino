@@ -10,6 +10,3 @@ def find_deep(path):
     return files_with_deep
 
 
-print(find_deep('C:\\Users\\USER\\gitHub\\Notebooks1\\week05\\images'))
-
-
